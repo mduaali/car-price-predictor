@@ -1,0 +1,51 @@
+name,year,selling_price,km_driven,fuel,seller_type,transmission,owner,car_age
+Maruti 800 AC,2007,60000,70000,Petrol,Individual,Manual,First Owner,18
+Maruti Wagon R LXI Minor,2007,135000,50000,Petrol,Individual,Manual,First Owner,18
+Hyundai Verna 1.6 SX,2012,600000,100000,Diesel,Individual,Manual,First Owner,13
+Datsun RediGO T Option,2017,250000,46000,Petrol,Individual,Manual,First Owner,8
+Honda Amaze VX i-DTEC,2014,450000,141000,Diesel,Individual,Manual,Second Owner,11
+Maruti Alto LX BSIII,2007,140000,125000,Petrol,Individual,Manual,First Owner,18
+Hyundai Xcent 1.2 Kappa S,2016,550000,25000,Petrol,Individual,Manual,First Owner,9
+Tata Indigo Grand Petrol,2014,240000,60000,Petrol,Individual,Manual,Second Owner,11
+Hyundai Creta 1.6 VTVT S,2015,850000,25000,Petrol,Individual,Manual,First Owner,10
+Maruti Celerio Green VXI,2017,365000,78000,CNG,Individual,Manual,First Owner,8
+Chevrolet Sail 1.2 Base,2015,260000,35000,Petrol,Individual,Manual,First Owner,10
+Tata Indigo Grand Petrol,2014,250000,100000,Petrol,Individual,Manual,First Owner,11
+Toyota Corolla Altis 1.8 VL CVT,2018,1650000,25000,Petrol,Dealer,Automatic,First Owner,7
+Maruti 800 AC,2007,60000,70000,Petrol,Individual,Manual,First Owner,18
+Maruti Wagon R LXI Minor,2007,135000,50000,Petrol,Individual,Manual,First Owner,18
+Hyundai Verna 1.6 SX,2012,600000,100000,Diesel,Individual,Manual,First Owner,13
+Datsun RediGO T Option,2017,250000,46000,Petrol,Individual,Manual,First Owner,8
+Honda Amaze VX i-DTEC,2014,450000,141000,Diesel,Individual,Manual,Second Owner,11
+Maruti Alto LX BSIII,2007,140000,125000,Petrol,Individual,Manual,First Owner,18
+Hyundai Xcent 1.2 Kappa S,2016,550000,25000,Petrol,Individual,Manual,First Owner,9
+Tata Indigo Grand Petrol,2014,240000,60000,Petrol,Individual,Manual,Second Owner,11
+Hyundai Creta 1.6 VTVT S,2015,850000,25000,Petrol,Individual,Manual,First Owner,10
+Maruti Celerio Green VXI,2017,365000,78000,CNG,Individual,Manual,First Owner,8
+Chevrolet Sail 1.2 Base,2015,260000,35000,Petrol,Individual,Manual,First Owner,10
+Tata Indigo Grand Petrol,2014,250000,100000,Petrol,Individual,Manual,First Owner,11
+Toyota Corolla Altis 1.8 VL CVT,2018,1650000,25000,Petrol,Dealer,Automatic,First Owner,7
+Maruti Ciaz VXi Plus,2015,585000,24000,Petrol,Dealer,Manual,First Owner,10
+Hyundai Venue SX Opt Diesel,2019,1195000,5000,Diesel,Dealer,Manual,First Owner,6
+Chevrolet Enjoy TCDi LTZ 7 Seater,2013,390000,33000,Diesel,Individual,Manual,Second Owner,12
+Jaguar XF 2.2 Litre Luxury,2014,1964999,28000,Diesel,Dealer,Automatic,First Owner,11
+Mercedes-Benz New C-Class 220 CDI AT,2013,1425000,59000,Diesel,Dealer,Automatic,First Owner,12
+Maruti Vitara Brezza ZDi Plus AMT,2018,975000,4500,Diesel,Dealer,Automatic,First Owner,7
+Audi Q5 2.0 TDI,2011,1190000,175900,Diesel,Dealer,Automatic,First Owner,14
+Honda City V MT,2018,930000,14500,Petrol,Dealer,Manual,First Owner,7
+Tata Tigor 1.2 Revotron XT,2018,525000,15000,Petrol,Individual,Manual,First Owner,7
+Audi A6 2.0 TDI  Design Edition,2013,1735000,50000,Diesel,Dealer,Automatic,First Owner,12
+Mercedes-Benz New C-Class C 220 CDI Avantgarde,2012,1375000,33800,Diesel,Dealer,Automatic,Second Owner,13
+Skoda Superb Ambition 2.0 TDI CR AT,2011,450000,130400,Diesel,Dealer,Automatic,Second Owner,14
+Toyota Corolla Altis G AT,2016,900000,50000,Petrol,Individual,Automatic,First Owner,9
+Toyota Innova 2.5 G (Diesel) 7 Seater,2015,1300000,80000,Diesel,Individual,Manual,First Owner,10
+Jeep Compass 1.4 Sport Plus BSIV,2019,1400000,10000,Petrol,Individual,Manual,First Owner,6
+Mercedes-Benz E-Class E 200 CGI Elegance,2010,850000,119000,Petrol,Dealer,Automatic,First Owner,15
+Hyundai i10 Magna 1.1L,2014,229999,60000,Petrol,Individual,Manual,Fourth & Above Owner,11
+BMW 3 Series 320d Sport Line,2013,1550000,75800,Diesel,Dealer,Automatic,Second Owner,12
+Audi Q7 35 TDI Quattro Premium,2009,1250000,78000,Diesel,Dealer,Automatic,Third Owner,16
+Hyundai Elantra CRDi S,2012,625000,40000,Diesel,Individual,Manual,First Owner,13
+Mahindra Scorpio 1.99 S10,2014,1050000,50000,Diesel,Individual,Manual,First Owner,11
+Honda City i DTEC V,2014,560000,74000,Diesel,Individual,Manual,Second Owner,11
+Maruti Wagon R VXI BS IV with ABS,2014,290000,64000,Petrol,Individual,Manual,Second Owner,11
+Maruti Wagon R VXI BS IV,2012,275000,60000,Petrol,Individual,Manual,Second Owner,13
